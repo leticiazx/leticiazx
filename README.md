@@ -1,9 +1,18 @@
 ### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)&nbsp;
-![Excel](https://img.shields.io/badge/-EXCEL-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/-POWER%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+### Main skills:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="SQL"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" height="40" alt="Excel"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" height="40" alt="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+</p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91C788&height=120&section=header"/>
 
